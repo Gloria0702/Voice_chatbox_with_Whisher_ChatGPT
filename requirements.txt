@@ -1,0 +1,7 @@
+openai
+gradio
+pyaudio
+wave
+keyboard
+pywin32
+paramiko
