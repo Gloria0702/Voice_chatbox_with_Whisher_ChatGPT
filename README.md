@@ -1,5 +1,5 @@
 # Voice_chatbox_with_Whisher_ChatGPT
-Voice command for career advisor with ChatGPT and Whisper
+Voice chatbox as career advisor with ChatGPT and Whisper
 
 ------------------------------------------------------------------------------------
 instructions:
@@ -38,8 +38,14 @@ config.py
 
 This code file is the key for connect ChatGPT server.
 
-robotics_local.py
+Career_advisor_chatGPT.py
 
 This code file is for recording the voice, and then return the ID number to the robot.
 
 ------------------------------------------------------------------------------------
+Usage:
+
+-input the OpenAI key into the config.py
+
+-run Career_advisor_chatGPT.py
+
