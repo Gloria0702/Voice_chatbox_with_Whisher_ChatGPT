@@ -14,22 +14,32 @@ The structure of the repository
  It is structured as follows:
 
 +-- readme.md
+
 +-- record/
+
 +-- audio_recorder/
+
 +-- config.py
+
 +-- robotics_local.py
+
 +-- requirements.txt
 
+
 record/
+
 This directory contains the voice recode files.
 
 audio_recorder/
+
 This directory contains the function to record the voice and automatically saved in the directory ./record
 
 config.py
+
 This code file is the key for connect ChatGPT server.
 
 robotics_local.py
+
 This code file is for recording the voice, and then return the ID number to the robot.
 
 ------------------------------------------------------------------------------------
